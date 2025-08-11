@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Akash Hiremath
 
 🔐 Aspiring Cybersecurity Professional | SOC Analyst Trainee  
-🛡️ Passionate about threat detection, incident response & network security  
+🛡️ Passionate about threat detection, incident response, cloud & network security  
 💻 Hands-on experience with Splunk, IBM QRadar, OpenEDR, Nmap, Wireshark & Python  
 
 ---
