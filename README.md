@@ -7,10 +7,13 @@
 ---
 
 ### 🚀 What I'm working on  
-🛡️ Strengthening Blue Team skills with real-time log analysis, alerting, and threat detection in Splunk
-🌐 Mastering network security through reconnaissance techniques, deep packet inspection, and traffic analysis
-🔍 Sharpening SOC expertise by practicing threat hunting, incident response, and security event correlation
-📊 Applying frameworks & tools like MITRE ATT&CK to map adversary tactics and improve detection workflows
+- 🛡️ Strengthening Blue Team skills with real-time log analysis, alerting, and threat detection in Splunk
+- 🌐 Mastering network security through reconnaissance techniques, deep packet inspection, and traffic analysis
+- 🔍 Sharpening SOC expertise by practicing threat hunting, incident response, and security event correlation
+- 📊 Applying frameworks & tools like MITRE ATT&CK to map adversary tactics and improve detection workflows
+
+
+
 
 ---
 
